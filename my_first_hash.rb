@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-  hunting_gear = {"rifle" = 1, "camo jacket" => 1, "hand calls" => 6, "bullets" => 20}
+  hunting_gear = {"rifle" => 1, "camo jacket" => 1, "hand calls" => 6, "bullets" => 20}
 
 end
 
